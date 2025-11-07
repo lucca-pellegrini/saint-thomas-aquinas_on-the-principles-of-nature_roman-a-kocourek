@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.md">
+		<ignore>
+			<code>f-001</code>
+			<reason>This is a private repo, and I don't care about the strict Standard Ebooks repository structure.</reason>
+		</ignore>
+		<ignore>
+			<code>f-003</code>
+			<reason>This is a private repo, and I don't care about the strict Standard Ebooks repository structure.</reason>
+		</ignore>
+		<ignore>
+			<code>f-008</code>
+			<reason>This is a private repo, and I don't care about the strict Standard Ebooks repository structure.</reason>
+		</ignore>
+	</file>
+	<file path=".gitignore">
+		<ignore>
+			<code>f-001</code>
+			<reason>This is a private repo, and I don't care about the strict Standard Ebooks repository structure.</reason>
+		</ignore>
+		<ignore>
+			<code>f-008</code>
+			<reason>This is a private repo, and I don't care about the strict Standard Ebooks repository structure.</reason>
+		</ignore>
+	</file>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-054</code>
+			<reason>This is a private repo, and we want custom URLs referencing the Standard Ebooks Toolset and Style Guide, without implying that this particular ebook was approved by the Standard Ebooks Collections Policy.</reason>
+		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>This is a private repo, and the cover art is not a painting, but a photograph of a stained glass window. As such, it doesn't have a title, except that which is found in it's Wikimedia Commons page, which is pasted verbatim here.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>f-002</code>
+			<reason>This is a private repo, and I just don't like how the Standard Ebooks (un)copyright statement is worded, so we ignore this missing file.</reason>
+		</ignore>
+		<ignore>
+			<code>m-009</code>
+			<reason>This is a private repo, and as such cannot be found under the Standard Ebooks GitHub account.</reason>
+		</ignore>
+		<ignore>
+			<code>m-067</code>
+			<reason>This is a private repo, and Saint Thomas's work are very unlikely to ever be added to the Standard Ebooks Collection, given their restrictive Collections Policy, with the exception of the Summa, which is part of the Encyclopædia Britannica’s Great Books of the Western World set. As such, Saint Thomas's S.E. link is unlikely to ever contain anything. Thus, I opted for a link to his Wikipedia page.</reason>
+		</ignore>
+	</file>
+	<file path="cover.jpg">
+		<ignore>
+			<code>f-016</code>
+			<reason>This is a private repo, and even though we'd like to keep our ebooks small, I just like that stained glass window too much to bother further compressing it.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
