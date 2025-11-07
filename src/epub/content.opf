@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/saint-thomas-aquinas/on-the-principles-of-nature-to-brother-sylvester/roman-a-kocourek</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/saint-thomas-aquinas/on-the-principles-of-nature/roman-a-kocourek</dc:identifier>
 		<dc:date>2025-11-07T21:20:52Z</dc:date>
 		<meta property="dcterms:modified">2025-11-07T21:20:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -27,8 +27,15 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<dc:title id="title">On the Principles of Nature, to Brother Sylvester</dc:title>
-		<meta property="file-as" refines="#title">Principles of Nature, to Brother Sylvester, On the</meta>
+		<dc:title id="title">On the Principles of Nature</dc:title>
+		<meta property="file-as" refines="#title">Principles of Nature, On the</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">To Brother Sylvester</dc:title>
+		<meta property="file-as" refines="#subtitle">To brother Sylvester</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">On the Principles of Nature, to Brother Sylvester</dc:title>
+		<meta property="file-as" refines="#fulltitle">On the Principles of Nature</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Philosophy, Medieval</dc:subject>
 		<dc:subject id="subject-2">Metaphysics</dc:subject>
 		<dc:subject id="subject-3">Hylomorphism</dc:subject>
@@ -51,7 +58,7 @@
 		<meta property="se:word-count">6104</meta>
 		<meta property="se:reading-ease.flesch">55.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/De_principiis_naturae,_ad_fratrem_Sylvestrum</meta>
-		<meta property="se:url.vcs.github">https://github.com/lucca-pellegrini/saint-thomas-aquinas_on-the-principles-of-nature-to-brother-sylvester_roman-a-kocourek</meta>
+		<meta property="se:url.vcs.github">https://github.com/lucca-pellegrini/saint-thomas-aquinas_on-the-principles-of-nature_roman-a-kocourek</meta>
 		<dc:creator id="author">Saint Thomas Aquinas</dc:creator>
 		<meta property="file-as" refines="#author">Aquinas, Saint Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">Thomas Aquinas</meta>

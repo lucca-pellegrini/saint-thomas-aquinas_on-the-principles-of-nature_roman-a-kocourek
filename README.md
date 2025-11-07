@@ -1,4 +1,4 @@
-# On the Principles of Nature, to Brother Sylvester
+# On the Principles of Nature
 
 By Saint Thomas Aquinas  
 Translated by Roman A. Kocourek
@@ -37,7 +37,7 @@ se build --output-dir=dist/ --kindle --kobo .
 
 If you find any issues or have suggestions for improvements, please report them
 on the [GitHub issues
-page](https://github.com/lucca-pellegrini/saint-thomas-aquinas_on-the-principles-of-nature-to-brother-sylvester_roman-a-kocourek/issues).
+page](https://github.com/lucca-pellegrini/saint-thomas-aquinas_on-the-principles-of-nature_roman-a-kocourek/issues).
 
 ## License
 
