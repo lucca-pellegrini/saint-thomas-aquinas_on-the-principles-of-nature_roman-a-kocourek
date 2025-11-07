@@ -40,9 +40,11 @@
 		<meta property="term" refines="#subject-3">sh85063573</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Saint Thomas Aquinas elucidates the Aristotelian principles governing natural existence and transformation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;This early work by &lt;a href="https://en.wikipedia.org/wiki/Thomas_Aquinas"&gt;Saint Thomas Aquinas&lt;/a&gt;, composed around 1255, introduces the fundamental principles of nature as understood through Aristotelian philosophy. Addressing a fellow Dominican, it examines the roles of matter, form, privation, efficient cause, and final cause in explaining natural change, generation, and corruption.&lt;/p&gt;
+			&lt;p&gt;As one of Saint Thomas’s initial forays into natural philosophy during his baccalaureate studies. The treatise demonstrates the synthesis of classical Greek thought with Christian doctrine that would define his later contributions to metaphysics and theology. Drawing from Aristotle and Islamic commentators like Avicenna and Averroes, it establishes key concepts in hylomorphism, providing a framework for understanding the composition of substances and the dynamics of the physical world.&lt;/p&gt;
+			&lt;p&gt;The book’s significance lies in its role as a foundational text in the scholastic tradition, offering insights into the interplay between potency and act, and influencing the development of Western philosophy and science in the centuries that followed.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://aquinas.cc/la/en/~DePrinNat</dc:source>
