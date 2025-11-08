@@ -30,7 +30,7 @@ To build all the ePUB files, install the [Standard Ebooks
 toolset](https://standardebooks.org/tools) and run:
 
 ```
-se build --output-dir=dist/ --kindle --kobo .
+se build --output-dir=dist/ --kindle --kobo --check .
 ```
 
 ## Contributing
