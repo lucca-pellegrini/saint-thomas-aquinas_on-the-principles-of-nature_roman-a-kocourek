@@ -73,11 +73,11 @@
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber">Fr. Joseph Kenny, O.P.</dc:contributor>
-		<meta property="file-as" refines="transcriber">Kenny O.P., Fr. Joseph</meta>
-		<meta property="se:name.person.full-name" refines="transcriber">Joseph Peter Kenny</meta>
-		<meta property="se:url.authority.nacoaf" refines="transcriber">http://id.loc.gov/authorities/names/no2023134089</meta>
-		<meta property="se:url.homepage" refines="transcriber">https://dhspriory.org/kenny/</meta>
-		<meta property="role" refines="transcriber" scheme="marc:relators">trc</meta>
+		<meta property="file-as" refines="#transcriber">Kenny O.P., Fr. Joseph</meta>
+		<meta property="se:name.person.full-name" refines="#transcriber">Joseph Peter Kenny</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber">http://id.loc.gov/authorities/names/no2023134089</meta>
+		<meta property="se:url.homepage" refines="#transcriber">https://dhspriory.org/kenny/</meta>
+		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer">Lucca Pellegrini</dc:contributor>
 		<meta property="file-as" refines="#producer">Pellegrini, Lucca</meta>
 		<meta property="se:url.homepage" refines="#producer">https://github.com/lucca-pellegrini</meta>
